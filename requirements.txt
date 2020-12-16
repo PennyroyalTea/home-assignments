@@ -2,7 +2,7 @@ click
 good
 imageio<=2.4.1
 matplotlib
-moviepy<1.0.0
+moviepy<=1.0.0
 numpy
 opencv-python
 pims
